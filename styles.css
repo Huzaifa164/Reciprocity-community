@@ -529,4 +529,10 @@ footer {
     .story-card > img {
         width: 25vw;
     }
+    .quote {
+        font-size: 40px;
+    }
+    .quote-writer {
+        font-size: 15px;
+    }
 }
